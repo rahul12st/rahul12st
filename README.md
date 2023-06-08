@@ -1,7 +1,7 @@
 [![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoYknCVTYzAYuHfUAc2e8wkJFirYX4GGStgQ&usqp=CAU)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Rahul Singh</h1>
 <h3 align="center">A passionate Blockchain developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRovpXJrJAwoL5hWtL94kdEV_OMpSf2dWlOrl9sZnWsGzHcIqnLNTzovqLWAG_Ge0pylU&usqp=CAU">
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahul1st&label=Profile%20views&color=0e75b6&style=flat" alt="rahul1st" /> </p>
 
