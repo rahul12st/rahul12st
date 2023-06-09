@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Blockchain developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rahul2st&label=Profile%20views&color=0e75b6&style=flat" alt="rahul1st" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rahul12st&label=Profile%20views&color=0e75b6&style=flat" alt="rahul12st" /> </p>
 
 - 🔭 I’m currently working on **Blockchain Technology**
 
@@ -23,6 +23,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahul1st&show_icons=true&locale=en&layout=compact" alt="rahul1st" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rahul1st&show_icons=true&locale=en" alt="rahul1st" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rahul12st&show_icons=true&locale=en" alt="rahul12st" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahul1st&" alt="rahul1st" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahul12st&" alt="rahul12st" /></p>
